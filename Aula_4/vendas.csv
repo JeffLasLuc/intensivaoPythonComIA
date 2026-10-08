@@ -1,0 +1,10 @@
+data,vendedor,produto,quantidade,valor
+2026-06-03,Carla,Celular,1,2000.0
+2026-06-03,Carla,Celular,1,2000.0
+2026-06-04,Bruno,Notebook,2,7000.0
+2026-06-04,Carla,Celular,1,2000.0
+2026-06-04,Carla,Notebook,1,3500.0
+2026-06-06,Carla,Notebook,1,3500.0
+2026-06-06,Ana,Notebook,1,3500.0
+2026-06-08,Ana,Fone,1,150.0
+2026-06-08,Ana,Fone,2,300.0
